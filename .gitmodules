@@ -1,0 +1,3 @@
+[submodule "simplex"]
+	path = simplex
+	url = https://github.com/Ramon5/simplex.git
